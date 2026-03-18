@@ -15,7 +15,7 @@ setup(
     description="Thai OMR Answer Sheet Generator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/omr-generator",
+    url="https://github.com/AppleBoiy/omr-answer-sheet-gen.git",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
