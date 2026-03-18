@@ -292,19 +292,7 @@ fonts/
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
-
-Copyright (c) 2024 OMR Generator Contributors
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Support
-
-For issues and questions, please open an issue on GitHub.
-
-## Author
+MIT License - see [LICENSE](LICENSE) file for details
 
 Created for Thai educational institutions.
 
